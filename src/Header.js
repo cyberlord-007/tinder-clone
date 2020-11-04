@@ -13,6 +13,7 @@ function Header() {
       <img
         src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
         className="header_logo"
+        alt=""
       />
       <IconButton>
         <ForumIcon fontSize="large" className="header_icon" />
